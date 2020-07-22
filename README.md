@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Krystian and I'm .Net Developer.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KrystianKolad&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **KrystianKolad/KrystianKolad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
